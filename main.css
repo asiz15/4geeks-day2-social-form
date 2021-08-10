@@ -1,0 +1,38 @@
+body{
+    background: #efefef;
+}
+
+.main-container{
+    width: 100vw;
+    min-height: 100vh;
+}
+.col-separator{
+    width: 2px;
+    background: lightgray;
+}
+
+.left > button{
+    margin-bottom: .5em;
+}
+
+.left > button > i{
+    margin-right: 10px;
+}
+
+.vertical-line{
+    height: 40%;
+}
+
+.facebook{
+    background: #4468B2 !important;
+    border: 1px solid #4468B2;
+}
+.twitter{
+    background: #12BEFF !important;
+    border: 1px solid #12BEFF;
+}
+
+.google{
+    background: #DD4C39 !important;
+    border: 1px solid #DD4C39;
+}
